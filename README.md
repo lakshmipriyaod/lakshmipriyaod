@@ -6,7 +6,7 @@
 
 I am a Business Analyst with 4+ years of professional experience in Sales, Marketing, and Market Research, currently transitioning into Business Analytics.
 
-I enjoy transforming business data into meaningful insights that support strategic decision-making.
+Passionate about transforming business problems into data-driven solutions through analytics, visualization, and strategic decision-making.
 
 ## About Me
 
