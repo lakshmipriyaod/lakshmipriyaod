@@ -2,7 +2,7 @@
 
 ### Business Analyst | Data Analytics Enthusiast
 
-I am a Business Analyst with 4.5+ years of professional experience in Sales, Marketing, and Market Research, currently transitioning into Business Analytics.
+I am a Business Analyst with 4+ years of professional experience in Sales, Marketing, and Market Research, currently transitioning into Business Analytics.
 
 I enjoy transforming business data into meaningful insights that support strategic decision-making.
 
