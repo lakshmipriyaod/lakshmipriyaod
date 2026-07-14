@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![GitHub Banner](./banner.png)
 
 # Hi, I'm Lakshmi Priya 👋
 
