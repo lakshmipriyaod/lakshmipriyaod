@@ -2,7 +2,7 @@
 
 # Hi, I'm Lakshmi Priya 👋
 
-### Business Analyst | Data Analytics Enthusiast
+### Business Analyst | Data Analytics | Project Management | Data Storytelling
 
 I am a Business Analyst with 4+ years of professional experience in Sales, Marketing, and Market Research, currently transitioning into Business Analytics.
 
@@ -10,11 +10,12 @@ Passionate about transforming business problems into data-driven solutions throu
 
 ## About Me
 
-- 🎓 MBA in Sales & Marketing
-- 🎓 MS in Business Analytics
-- 📊 Passionate about solving business problems using data
-- 🌱 Currently expanding my expertise in Business Analysis and Data Analytics
-- 💼 Open to Business Analyst opportunities
+🎓 MBA in Sales & Marketing
+🎓 MS in Business Analytics
+📊 Passionate about solving business problems using data
+📈 Experienced in Business Analysis, Data Analytics, and Dashboard Development
+📋 Knowledge of Agile, Scrum, SDLC, Requirement Gathering & Project Management
+💼 Open to Business Analyst Opportunities
 
 ## Technical Skills
 
@@ -29,7 +30,8 @@ Passionate about transforming business problems into data-driven solutions throu
 - Business Analysis
 - KPI Development
 - Dashboard Design
-
+- JIRA
+  
 ## Domain Experience
 
 - Supply Chain Analytics
@@ -70,6 +72,12 @@ Analyzed Google Analytics data to evaluate campaign performance, customer engage
 ✔ KPI Design
 
 ✔ Business Storytelling
+
+✔ Stakeholder Management
+
+✔ User Story Creation
+
+✔ BRD & FRD Documentation
 
 ✔ Data-Driven Decision Making
 
